@@ -63,16 +63,16 @@ This portfolio showcases the projects, technologies, and experiences that have s
 
 ## 🌟 Featured Projects
 
-### 📊 Data Wrangler
+### 📊 Excel Copilot
 An AI-powered Excel Copilot that streamlines data cleaning, transformation, and analysis workflows through intelligent automation.
 
-### 🛡️ HalluciShield
+### 🛡️ Hallucination Detection in LLMs
 A browser extension that detects, verifies, and corrects hallucinated AI-generated content in real time.
 
-### 🧠 NeuroVision
+### 🧠 Brain MRI Tumor Classification System
 A deep learning-based brain tumor detection and classification system built using MRI image analysis.
 
-### 🎯 ResumeMatch AI
+### 🎯JD Resume Matcher
 An intelligent resume-to-job-description matching platform that evaluates candidate fit and identifies skill gaps.
 
 ---
