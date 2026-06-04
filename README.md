@@ -2,7 +2,7 @@
 
 > Transforming data into insights and ideas into intelligent products.
 
-🌐 Live Portfolio: Portfolio Link Here
+🌐 [Live Portfolio](https://yukta-bande.vercel.app/)
 
 ---
 
