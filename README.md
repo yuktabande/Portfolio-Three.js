@@ -63,22 +63,22 @@ This portfolio showcases the projects, technologies, and experiences that have s
 
 ## 🌟 Featured Projects
 
-### 📊 Excel Copilot
+### 📊 [Excel Copilot](https://github.com/yuktabande/Data-wrangler)
 An AI-powered Excel Copilot that streamlines data cleaning, transformation, and analysis workflows through intelligent automation.
 
-### 🛡️ Hallucination Detection in LLMs
+### 🛡️ [Hallucination Detection in LLMs](https://github.com/yuktabande/Model-Hallucination-Detection-and-Correction)
 A browser extension that detects, verifies, and corrects hallucinated AI-generated content in real time.
 
-### 🧠 Brain MRI Tumor Classification System
+### 🧠 [Brain MRI Tumor Classification System](https://github.com/yuktabande/BRAINTUMOR)
 A deep learning-based brain tumor detection and classification system built using MRI image analysis.
 
-### 🎯JD Resume Matcher
+### 🎯[JD Resume Matcher](https://github.com/yuktabande/NLP---Job-Matching-Model)
 An intelligent resume-to-job-description matching platform that evaluates candidate fit and identifies skill gaps.
 
 ---
 
 ## 🚀 Running Locally
-
+```bash
 Clone the repository:
 
 bash git clone https://github.com/your-username/Portfolio-Three.js.git 
@@ -94,26 +94,16 @@ bash npm install
 Start the development server:
 
 bash npm run dev 
-
+```
 ---
 
 ## 📬 Contact
 
 Feel free to reach out for opportunities, collaborations, or simply to discuss AI, data science, and innovative technology.
 
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [Your GitHub URL]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yukta-bande/)
+- GitHub: [GitHub](https://github.com/yuktabande)
 - Email: yuktaabande@gmail.com
-
----
-
-## 💭 Fun Fact
-
-Most projects begin with:
-
-"This should only take 15 minutes."
-
-They rarely do.
 
 ---
 
