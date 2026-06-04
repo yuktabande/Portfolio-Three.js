@@ -1,16 +1,120 @@
-# React + Vite
+# 🚀 Yukta Bande | AI Engineer & Data Scientist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Transforming data into insights and ideas into intelligent products.
 
-Currently, two official plugins are available:
+🌐 Live Portfolio: Portfolio Link Here
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 👋 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm Yukta Bande, a Computer Science graduate specializing in Artificial Intelligence and Data Science.
 
-## Expanding the ESLint configuration
+I enjoy building intelligent applications that blend AI, data, and software engineering to solve real-world problems. My interests span Machine Learning, NLP, Data Analytics, Backend Development, and AI-powered product development.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio showcases the projects, technologies, and experiences that have shaped my journey as an engineer and problem solver.
+
+---
+
+## ✨ Features
+
+- Interactive 3D portfolio experience
+- AI & Machine Learning projects
+- Data Science and Analytics work
+- Backend development projects
+- Responsive modern UI
+- Integrated contact form with EmailJS
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- Tailwind CSS
+
+### 3D & Visualization
+- Three.js
+- React Three Fiber
+- Drei
+- React Spring
+
+### AI & Data Science
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- SQL
+- LangChain
+
+### Backend & Cloud
+- FastAPI
+- Django
+- AWS
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- Power BI
+
+---
+
+## 🌟 Featured Projects
+
+### 📊 Data Wrangler
+An AI-powered Excel Copilot that streamlines data cleaning, transformation, and analysis workflows through intelligent automation.
+
+### 🛡️ HalluciShield
+A browser extension that detects, verifies, and corrects hallucinated AI-generated content in real time.
+
+### 🧠 NeuroVision
+A deep learning-based brain tumor detection and classification system built using MRI image analysis.
+
+### 🎯 ResumeMatch AI
+An intelligent resume-to-job-description matching platform that evaluates candidate fit and identifies skill gaps.
+
+---
+
+## 🚀 Running Locally
+
+Clone the repository:
+
+bash git clone https://github.com/your-username/Portfolio-Three.js.git 
+
+Navigate to the project directory:
+
+bash cd Portfolio-Three.js 
+
+Install dependencies:
+
+bash npm install 
+
+Start the development server:
+
+bash npm run dev 
+
+---
+
+## 📬 Contact
+
+Feel free to reach out for opportunities, collaborations, or simply to discuss AI, data science, and innovative technology.
+
+- LinkedIn: [Your LinkedIn URL]
+- GitHub: [Your GitHub URL]
+- Email: yuktaabande@gmail.com
+
+---
+
+## 💭 Fun Fact
+
+Most projects begin with:
+
+"This should only take 15 minutes."
+
+They rarely do.
+
+---
+
+Built with curiosity, caffeine, and a passion for intelligent systems
