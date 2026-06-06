@@ -232,6 +232,6 @@ export const projects = [
     name: "JD Resume Matcher",
     description:
       "Built an NLP-based resume screening platform that extracts key skills, qualifications, and experience from resumes and job descriptions, computes semantic similarity scores, and generates actionable recommendations for ATS optimization.",
-    link: "https://github.com/yuktabande/NLP---Job-Matching-Model",
+    link: "https://github.com/yuktabande/ResumeAI",
   },
 ];
